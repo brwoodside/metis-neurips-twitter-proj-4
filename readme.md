@@ -8,9 +8,9 @@ Future work may involve gathering content based on search queries that involve "
 
 You can run these notebooks in order:
 
-1. [1-Data-Acquistion.ipynb]
-1. [2-Data-Cleaning-NLP.ipynb]
-1. [3-Topic-Modeling.ipynb]
-1. [4-Visualization.ipynb]
-1. [5-Clustering.ipynb]
-1. [6-Embeddings.ipynb]
+1. [1-Data-Acquistion.ipynb](1-Data-Acquistion.ipynb)
+1. [2-Data-Cleaning-NLP.ipynb](2-Data-Cleaning-NLP.ipynb)
+1. [3-Topic-Modeling.ipynb](3-Topic-Modeling.ipynb)
+1. [4-Visualization.ipynb](4-Visualization.ipynb)
+1. [5-Clustering.ipynb](5-Clustering.ipynb)
+1. [6-Embeddings.ipynb](6-Embeddings.ipynb)
